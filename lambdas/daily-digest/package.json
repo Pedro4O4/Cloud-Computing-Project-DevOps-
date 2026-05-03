@@ -1,0 +1,7 @@
+{
+  "name": "daily-digest-lambda",
+  "version": "1.0.0",
+  "description": "EventBridge-triggered Lambda for daily task due reminders",
+  "main": "index.js",
+  "dependencies": {}
+}

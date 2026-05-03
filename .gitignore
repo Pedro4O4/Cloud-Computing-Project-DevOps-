@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+frontend/dist/
+backend/dist/
+
+# Lambda packages
+lambdas/*/node_modules/
+lambdas/*/*.zip
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Coverage
+coverage/
+
+# Temp
+tmp/
+temp/

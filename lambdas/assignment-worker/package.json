@@ -1,0 +1,7 @@
+{
+  "name": "assignment-worker-lambda",
+  "version": "1.0.0",
+  "description": "SQS-triggered Lambda for activity logging and CloudWatch metrics",
+  "main": "index.js",
+  "dependencies": {}
+}

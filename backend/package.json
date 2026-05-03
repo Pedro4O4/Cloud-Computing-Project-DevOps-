@@ -1,0 +1,12 @@
+{
+  "name": "mini-jira-backend",
+  "version": "1.0.0",
+  "description": "Mini-Jira backend API — Express.js + AWS SDK",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,1 @@
+// Placeholder — Main layout wrapper

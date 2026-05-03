@@ -1,0 +1,7 @@
+{
+  "name": "image-resize-lambda",
+  "version": "1.0.0",
+  "description": "S3-triggered Lambda for image thumbnail generation",
+  "main": "index.js",
+  "dependencies": {}
+}
